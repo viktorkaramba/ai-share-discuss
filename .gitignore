@@ -1,0 +1,7 @@
+#gitignore for backend
+.env
+.idea
+
+go.mod
+go.sum
+configs/config.yml
